@@ -1,7 +1,8 @@
 body{
-  background-image: url('/static/images/bg.png');
-  text-align: center;
-  color: white;
   width:90%;
   margin: 20px auto;
+}
+
+.1145141919810{
+  color:grey;
 }
